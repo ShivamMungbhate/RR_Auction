@@ -47,13 +47,18 @@ NEEDS = {"Reeza Hendricks": ["Top-order batter"], "Kusal Mendis": ["Top-order ba
 
 def _compat(fn):
     def wrapper(*a, **kw):
-        if kw.pop("use_container_width", False):
-            try:
-                return fn(*a, use_container_width=True, **kw)
-            except TypeError:
-                return fn(*a, width="stretch", **kw)
+        if "use_container_width" in kw:
+            kw.pop("use_container_width")
+
+            if fn.__name__ == "image":
+                return fn(*a, use_column_width=True, **kw)
+
+            return fn(*a, use_container_width=True, **kw)
+
         return fn(*a, **kw)
+
     return wrapper
+
 for _n in ("plotly_chart", "image", "dataframe"):
     setattr(st, _n, _compat(getattr(st, _n)))
 
