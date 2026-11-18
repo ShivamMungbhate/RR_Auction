@@ -1,0 +1,478 @@
+player_id,player_name,ipl_teams,ipl_competitions
+8,Mahendra Singh Dhoni,Chennai Super Kings,5
+23,Piyush Chawla,Mumbai Indians,2
+28,Ishant Sharma,"Delhi Capitals, Gujarat Titans",4
+35,Nathan Bracken,Chennai Super Kings,1
+47,Virat Kohli,Royal Challengers Bengaluru,5
+88,Faf du Plessis,"Delhi Capitals, Royal Challengers Bengaluru",4
+109,Wriddhiman Saha,Gujarat Titans,3
+126,Rohit Sharma,Mumbai Indians,5
+142,Shikhar Dhawan,Punjab Kings,3
+143,Dinesh Karthik,Royal Challengers Bengaluru,3
+147,Pradeep Sangwan,Gujarat Titans,2
+152,Ravindra Jadeja,"Chennai Super Kings, Rajasthan Royals",5
+158,Amit Mishra,Lucknow Super Giants,2
+161,Dwayne Bravo,Chennai Super Kings,1
+167,Ajinkya Rahane,"Chennai Super Kings, Kolkata Knight Riders",5
+169,Robin Uthappa,Chennai Super Kings,1
+198,Manish Pandey,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",5
+220,David Warner,Delhi Capitals,3
+250,Aaron Finch,Kolkata Knight Riders,1
+278,Tim Southee,Kolkata Knight Riders,2
+295,Wayne Parnell,Royal Challengers Bengaluru,1
+305,Ravichandran Ashwin,"Chennai Super Kings, Rajasthan Royals",4
+344,Sheldon Jackson,Kolkata Knight Riders,1
+360,Bhuvneshwar Kumar,"Royal Challengers Bengaluru, Sunrisers Hyderabad",5
+393,Kedar Jadhav,Royal Challengers Bengaluru,1
+395,Karn Sharma,"Mumbai Indians, Royal Challengers Bengaluru",4
+403,Umesh Yadav,"Gujarat Titans, Kolkata Knight Riders",3
+479,Adil Rashid,Sunrisers Hyderabad,1
+494,Kieron Pollard,Mumbai Indians,1
+499,Shakib Al Hasan,Kolkata Knight Riders,1
+535,Ambati Rayudu,Chennai Super Kings,2
+772,Rilee Rossouw,"Delhi Capitals, Punjab Kings",2
+781,Sunil Narine,Kolkata Knight Riders,5
+786,Chris Jordan,"Chennai Super Kings, Mumbai Indians",2
+796,Matthew Wade,Gujarat Titans,3
+813,Jos Buttler,"Gujarat Titans, Rajasthan Royals",5
+818,Mitchell Marsh,"Delhi Capitals, Lucknow Super Giants",5
+820,Nathan Coulter Nile,Rajasthan Royals,1
+829,Mitchell Starc,"Delhi Capitals, Kolkata Knight Riders",3
+830,Josh Hazlewood,Royal Challengers Bengaluru,4
+838,Glenn Maxwell,"Punjab Kings, Royal Challengers Bengaluru",4
+914,Krishnappa Gowtham,Lucknow Super Giants,3
+930,Karun Nair,"Delhi Capitals, Lucknow Super Giants, Rajasthan Royals",4
+953,Lokesh Rahul,"Delhi Capitals, Lucknow Super Giants",5
+992,Mayank Agarwal,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",4
+1028,Varun Aaron,Gujarat Titans,1
+1039,Mandeep Singh,"Delhi Capitals, Kolkata Knight Riders",2
+1040,Harpreet Bhatia,Punjab Kings,2
+1045,David Wiese,Kolkata Knight Riders,1
+1071,Jaydev Unadkat,"Lucknow Super Giants, Mumbai Indians, Sunrisers Hyderabad",5
+1077,David Miller,"Delhi Capitals, Gujarat Titans, Lucknow Super Giants",5
+1107,Mohammad Nabi,"Kolkata Knight Riders, Mumbai Indians",2
+1171,Chris Woakes,Punjab Kings,1
+1183,Alex Hales,Kolkata Knight Riders,1
+1187,Jason Roy,"Gujarat Titans, Kolkata Knight Riders",3
+1195,Ben Stokes,Chennai Super Kings,1
+1205,Jonny Bairstow,"Mumbai Indians, Punjab Kings",4
+1219,David Willey,"Lucknow Super Giants, Royal Challengers Bengaluru",3
+1318,Andre Russell,Kolkata Knight Riders,4
+1327,Johnson Charles,Kolkata Knight Riders,1
+1389,Sean Abbott,Sunrisers Hyderabad,1
+1440,Rahul Tripathi,"Chennai Super Kings, Kolkata Knight Riders, Sunrisers Hyderabad",5
+1487,Adam Milne,"Chennai Super Kings, Rajasthan Royals",2
+1556,David Payne,Sunrisers Hyderabad,1
+1566,Mohammed Shami,"Gujarat Titans, Lucknow Super Giants, Sunrisers Hyderabad",5
+1568,Kane Williamson,"Gujarat Titans, Sunrisers Hyderabad",3
+1596,Moeen Ali,"Chennai Super Kings, Kolkata Knight Riders",4
+1600,Benny Howell,Punjab Kings,1
+1612,Yuzvendra Chahal,"Punjab Kings, Rajasthan Royals",5
+1617,Rishi Dhawan,Punjab Kings,3
+1699,Suryakumar Yadav,Mumbai Indians,5
+1701,Swapnil Singh,"Lucknow Super Giants, Royal Challengers Bengaluru",4
+1758,Patrick Cummins,"Kolkata Knight Riders, Sunrisers Hyderabad",4
+1813,Deepak Chahar,"Chennai Super Kings, Mumbai Indians",5
+1829,Shahbaz Nadeem,Lucknow Super Giants,1
+1924,Sam Billings,Kolkata Knight Riders,1
+1941,Devon Conway,Chennai Super Kings,4
+1944,Keshav Maharaj,"Mumbai Indians, Rajasthan Royals",2
+2003,Bhanuka Rajapaksa,Punjab Kings,2
+2054,Jason Behrendorff,"Mumbai Indians, Royal Challengers Bengaluru",3
+2101,Quinton de Kock,"Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians",5
+2214,Gulbadin Naib,Delhi Capitals,1
+2258,Sanju Samson,"Chennai Super Kings, Rajasthan Royals",5
+2261,Harshal Patel,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",5
+2299,Gurkeerat Singh Mann,Gujarat Titans,1
+2304,Tymal Mills,Mumbai Indians,1
+2315,Reece Topley,"Mumbai Indians, Royal Challengers Bengaluru",3
+2320,Trent Boult,"Mumbai Indians, Rajasthan Royals",5
+2334,Dwaine Pretorius,Chennai Super Kings,2
+2367,Travis Head,Sunrisers Hyderabad,3
+2373,Ashton Turner,Lucknow Super Giants,1
+2379,Ben Duckett,Delhi Capitals,1
+2382,Jamie Overton,Chennai Super Kings,2
+2399,Dushmantha Chameera,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",4
+2411,Sandeep Sharma,"Punjab Kings, Rajasthan Royals",5
+2416,Kyle Mayers,Lucknow Super Giants,3
+2417,Akeal Hosein,"Chennai Super Kings, Sunrisers Hyderabad",2
+2436,Dasun Shanaka,"Gujarat Titans, Rajasthan Royals",3
+2483,Lizaad Williams,"Delhi Capitals, Mumbai Indians",2
+2531,Joe Root,Rajasthan Royals,1
+2573,Evin Lewis,Lucknow Super Giants,1
+2633,Jason Holder,"Gujarat Titans, Lucknow Super Giants, Rajasthan Royals",3
+2636,Adam Zampa,"Rajasthan Royals, Sunrisers Hyderabad",3
+2639,Marcus Stoinis,"Lucknow Super Giants, Punjab Kings",5
+2671,Liton Das,Kolkata Knight Riders,1
+2756,Shashank Singh,"Punjab Kings, Sunrisers Hyderabad",4
+2781,Ravikumar Samarth,Sunrisers Hyderabad,1
+2790,Praveen Dubey,"Delhi Capitals, Punjab Kings",5
+2847,Shardul Thakur,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians",5
+2852,Jagadeesha Suchith,Sunrisers Hyderabad,1
+2860,KS Bharat,"Delhi Capitals, Gujarat Titans, Kolkata Knight Riders",3
+2862,Sachin Baby,Sunrisers Hyderabad,1
+2863,Sandeep Warrier,"Gujarat Titans, Mumbai Indians",2
+2869,Ankit Rajpoot,Lucknow Super Giants,1
+2872,Siddarth Kaul,Royal Challengers Bengaluru,2
+2876,Axar Patel,Delhi Capitals,5
+2877,Vijay Shankar,"Chennai Super Kings, Gujarat Titans",4
+2878,Mohit Sharma,"Delhi Capitals, Gujarat Titans",3
+2884,Manan Vohra,Lucknow Super Giants,2
+2930,Rassie van der Dussen,Rajasthan Royals,1
+2933,Jasprit Bumrah,Mumbai Indians,5
+2984,Sikandar Raza,Punjab Kings,2
+2985,Mark Wood,Lucknow Super Giants,3
+3125,Nicholas Pooran,"Lucknow Super Giants, Sunrisers Hyderabad",5
+3144,Thomas Curran,Royal Challengers Bengaluru,1
+3174,Matt Henry,"Chennai Super Kings, Lucknow Super Giants",2
+3272,Fabian Allen,Mumbai Indians,1
+3275,Alzarri Joseph,"Gujarat Titans, Royal Challengers Bengaluru",3
+3297,Shimron Hetmyer,Rajasthan Royals,5
+3298,Jofra Archer,"Mumbai Indians, Rajasthan Royals",4
+3299,Andrew Tye,Lucknow Super Giants,1
+3320,Jayant Yadav,Gujarat Titans,5
+3323,Jimmy Neesham,Rajasthan Royals,1
+3330,Hardik Pandya,"Gujarat Titans, Mumbai Indians",5
+3451,Baba Indrajith,Kolkata Knight Riders,1
+3462,Writtick Chatterjee,Punjab Kings,1
+3469,Shreyas Gopal,"Chennai Super Kings, Mumbai Indians, Sunrisers Hyderabad",4
+3479,Chama Milind,Royal Challengers Bengaluru,1
+3605,Aiden Markram,"Lucknow Super Giants, Sunrisers Hyderabad",5
+3628,Kagiso Rabada,"Gujarat Titans, Punjab Kings",5
+3629,Corbin Bosch,"Mumbai Indians, Rajasthan Royals",3
+3641,Ben Dwarshuis,Punjab Kings,1
+3644,Kuldeep Yadav,Delhi Capitals,5
+3645,Sarfaraz Khan,"Chennai Super Kings, Delhi Capitals",3
+3647,Shreyas Iyer,"Kolkata Knight Riders, Punjab Kings",5
+3648,Deepak Hooda,"Chennai Super Kings, Lucknow Super Giants",4
+3651,Ricky Bhui,Delhi Capitals,1
+3653,Avesh Khan,"Lucknow Super Giants, Rajasthan Royals",5
+3660,Luke Wood,"Gujarat Titans, Mumbai Indians",2
+3672,Kusal Mendis,Gujarat Titans,1
+3697,Kyle Jamieson,"Chennai Super Kings, Delhi Capitals, Punjab Kings",3
+3700,Tim Seifert,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",3
+3727,Matthew Short,"Chennai Super Kings, Punjab Kings",2
+3782,M Shahrukh Khan,"Gujarat Titans, Punjab Kings",5
+3916,Jitesh Sharma,"Punjab Kings, Royal Challengers Bengaluru",5
+3926,Rahul Tewatia,Gujarat Titans,5
+3967,Tom Kohler,Rajasthan Royals,1
+4007,Ryan Rickelton,Mumbai Indians,2
+4077,KL Shrijith,Mumbai Indians,1
+4080,KC Cariappa,Rajasthan Royals,2
+4101,Mitchell Santner,"Chennai Super Kings, Mumbai Indians",5
+4106,Daryl Mitchell,"Chennai Super Kings, Rajasthan Royals",2
+4117,Ishan Kishan,"Mumbai Indians, Sunrisers Hyderabad",5
+4211,Vishnu Vinod,"Mumbai Indians, Punjab Kings, Sunrisers Hyderabad",5
+4219,Krunal Pandya,"Lucknow Super Giants, Royal Challengers Bengaluru",5
+4229,George Linde,Lucknow Super Giants,1
+4235,Sisanda Magala,Chennai Super Kings,1
+4246,Nitish Rana,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",5
+4250,Baltej Singh,Punjab Kings,2
+4260,Heinrich Klaasen,Sunrisers Hyderabad,4
+4265,T Natarajan,"Delhi Capitals, Sunrisers Hyderabad",5
+4276,Basil Thampi,Mumbai Indians,1
+4288,Navdeep Saini,"Kolkata Knight Riders, Rajasthan Royals",4
+4325,Ashwin Hebbar,Delhi Capitals,1
+4369,Shai Hope,Delhi Capitals,1
+4373,Mustafizur Rahman,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders",5
+4391,Liam Livingstone,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",5
+4409,Sam Curran,"Chennai Super Kings, Punjab Kings, Rajasthan Royals",4
+4486,BR Sharath,Gujarat Titans,1
+4487,Vyshak Kumar,"Punjab Kings, Royal Challengers Bengaluru",4
+4489,Prasidh Krishna,"Gujarat Titans, Rajasthan Royals",5
+4494,Abhinav Manohar,"Gujarat Titans, Sunrisers Hyderabad",4
+4505,Jhye Richardson,"Delhi Capitals, Mumbai Indians",2
+4641,Lungi Ngidi,"Delhi Capitals, Royal Challengers Bengaluru",5
+4692,Lockie Ferguson,"Gujarat Titans, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bengaluru",5
+4703,Rishabh Pant,"Delhi Capitals, Lucknow Super Giants",5
+4708,Rinku Singh,Kolkata Knight Riders,5
+4716,Mayank Dagar,"Royal Challengers Bengaluru, Sunrisers Hyderabad",2
+4722,Rashid Khan,Gujarat Titans,5
+4736,Josh Inglis,"Lucknow Super Giants, Punjab Kings",2
+4755,Shivam Dube,Chennai Super Kings,5
+4779,Pieter Willem Mulder,Sunrisers Hyderabad,1
+4807,Joshua Little,Gujarat Titans,2
+4816,Khaleel Ahmed,"Chennai Super Kings, Delhi Capitals",5
+4817,Anmolpreet Singh,"Mumbai Indians, Sunrisers Hyderabad",3
+4821,Mahipal Lomror,"Gujarat Titans, Mumbai Indians, Royal Challengers Bengaluru",5
+4823,Washington Sundar,"Gujarat Titans, Sunrisers Hyderabad",5
+4824,Zeeshan Ansari,Sunrisers Hyderabad,2
+4837,Obed McCoy,Rajasthan Royals,2
+4840,Odean Smith,"Gujarat Titans, Punjab Kings",2
+4847,Finn Allen,"Kolkata Knight Riders, Royal Challengers Bengaluru",3
+4853,Glenn Phillips,"Gujarat Titans, Sunrisers Hyderabad",5
+4854,Rachin Ravindra,"Chennai Super Kings, Kolkata Knight Riders",3
+4895,Charith Asalanka,Mumbai Indians,1
+4900,Wanindu Hasaranga,"Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bengaluru, Sunrisers Hyderabad",5
+4904,Kamindu Mendis,Sunrisers Hyderabad,2
+4986,Rovman Powell,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",5
+5029,Prerak Mankad,"Lucknow Super Giants, Punjab Kings",3
+5034,Murugan Ashwin,"Mumbai Indians, Rajasthan Royals",2
+5039,Rajat Patidar,Royal Challengers Bengaluru,5
+5041,Mukesh Kumar,Delhi Capitals,4
+5071,Akash Vasisht,Rajasthan Royals,1
+5553,Phil Salt,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",4
+5562,Richard Gleeson,"Chennai Super Kings, Mumbai Indians, Royal Challengers Bengaluru",3
+5577,Sai Kishore,Gujarat Titans,5
+5608,Narayan Jagadeesan,"Chennai Super Kings, Kolkata Knight Riders",2
+5665,Sanjay Yadav,Mumbai Indians,1
+5668,Hari Nishaanth,Chennai Super Kings,1
+5680,R Sonu Yadav,Royal Challengers Bengaluru,1
+5738,Xavier Bartlett,Punjab Kings,2
+5808,Karim Janat,Gujarat Titans,1
+5809,Naveen ul Haq,Lucknow Super Giants,2
+5928,Prithvi Shaw,Delhi Capitals,4
+5939,Cameron Green,"Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",3
+5940,Riley Meredith,Mumbai Indians,2
+5944,Mohammed Siraj,"Gujarat Titans, Royal Challengers Bengaluru",5
+6036,Tejas Baroka,Rajasthan Royals,1
+6038,Pratham Sing,Kolkata Knight Riders,1
+6048,Ishan Porel,Punjab Kings,1
+6059,Ruturaj Gaikwad,Chennai Super Kings,5
+6097,Brydon Carse,Sunrisers Hyderabad,2
+6160,Chamika Karunaratne,Kolkata Knight Riders,1
+6161,Rahul Chahar,"Chennai Super Kings, Punjab Kings, Sunrisers Hyderabad",5
+6162,Kulwant Khejroliya,"Gujarat Titans, Kolkata Knight Riders",3
+6166,Jack Edwards,Sunrisers Hyderabad,1
+6237,Manimaran Siddharth,Lucknow Super Giants,3
+6256,Varun Chakravarthy,Kolkata Knight Riders,5
+6272,William Jacks,"Mumbai Indians, Royal Challengers Bengaluru",4
+6273,Tom Banton,Gujarat Titans,1
+6280,Harry Brook,"Delhi Capitals, Sunrisers Hyderabad",3
+6281,Abhishek Sharma,Sunrisers Hyderabad,5
+6284,Anukul Roy,Kolkata Knight Riders,5
+6285,Kamlesh Nagarkoti,"Chennai Super Kings, Delhi Capitals",3
+6286,Shivam Mavi,"Gujarat Titans, Kolkata Knight Riders, Lucknow Super Giants, Sunrisers Hyderabad",4
+6287,Yash Thakur,"Lucknow Super Giants, Punjab Kings",4
+6288,Shubman Gill,Gujarat Titans,5
+6314,Devdutt Padikkal,"Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bengaluru",5
+6342,Matthew Breetzke,Lucknow Super Giants,2
+6351,Yarra Prithviraj,Gujarat Titans,1
+6354,Spencer Johnson,"Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders",3
+6359,Raghu Sharma,Mumbai Indians,2
+6396,Tim David,"Mumbai Indians, Royal Challengers Bengaluru",5
+6398,Aaron Hardie,Punjab Kings,1
+6408,Subhranshu Senapati,Chennai Super Kings,2
+6423,Riyan Parag,Rajasthan Royals,5
+6428,Upendra Yadav,Sunrisers Hyderabad,2
+6450,Mujeeb Ur Rahman,"Kolkata Knight Riders, Mumbai Indians",2
+6457,Urvil Patel,"Chennai Super Kings, Gujarat Titans",3
+6460,Ayush Badoni,Lucknow Super Giants,5
+6461,Mayank Rawat,Mumbai Indians,1
+6464,Arshdeep Singh,Punjab Kings,5
+6466,Atharwa Taide,"Punjab Kings, Sunrisers Hyderabad",4
+6467,Anuj Rawat,"Gujarat Titans, Royal Challengers Bengaluru",5
+6486,Tanush Kotian,Rajasthan Royals,1
+6487,Priyam Garg,"Delhi Capitals, Sunrisers Hyderabad",2
+6488,Harvik Desai,Mumbai Indians,1
+6489,Darshan Nalkande,"Delhi Capitals, Gujarat Titans",4
+6492,Aryan Juyal,"Lucknow Super Giants, Mumbai Indians",2
+6494,Manoj Bhandage,Royal Challengers Bengaluru,3
+6512,Michael Bracewell,Royal Challengers Bengaluru,1
+6518,Daniel Sams,"Lucknow Super Giants, Mumbai Indians",2
+6523,Blessing Muzarabani,"Kolkata Knight Riders, Royal Challengers Bengaluru",2
+6526,Himmat Singh,Lucknow Super Giants,2
+6591,KM Asif,"Chennai Super Kings, Rajasthan Royals",2
+6628,Gerald Coetzee,"Gujarat Titans, Mumbai Indians, Sunrisers Hyderabad",3
+6654,Tanay Thyagarajan,Punjab Kings,1
+6669,Mohsin Khan,Lucknow Super Giants,5
+6671,Lalit Yadav,Delhi Capitals,3
+6674,Rahmanullah Gurbaz,"Gujarat Titans, Kolkata Knight Riders",4
+6676,Azmatullah Omarzai,"Gujarat Titans, Punjab Kings",3
+6683,Mayank Markande,"Kolkata Knight Riders, Mumbai Indians, Sunrisers Hyderabad",5
+6697,Shams Mulani,Mumbai Indians,2
+6725,Sherfane Rutherford,"Gujarat Titans, Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",4
+6726,Romario Shepherd,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad",5
+6772,Chetan Sakariya,"Delhi Capitals, Kolkata Knight Riders",4
+6774,Samarth Vyas,Sunrisers Hyderabad,1
+6797,Dominic Drakes,Gujarat Titans,1
+6806,Tushar Deshpande,"Chennai Super Kings, Rajasthan Royals",5
+6819,Yashasvi Jaiswal,Rajasthan Royals,5
+6931,Pathum Nissanka,Delhi Capitals,1
+7008,Gus Atkinson,Kolkata Knight Riders,1
+7059,Nehal Wadhera,"Mumbai Indians, Punjab Kings",4
+7060,Arjun Tendulkar,"Lucknow Super Giants, Mumbai Indians",5
+7095,Gideon Peters,Delhi Capitals,1
+7134,Luvnith Sisodia,"Kolkata Knight Riders, Royal Challengers Bengaluru",3
+7197,Jhatavedh Subramanyan,Sunrisers Hyderabad,1
+7216,Prabhsimran Singh,Punjab Kings,5
+7240,FazalHaq Farooqi,"Rajasthan Royals, Sunrisers Hyderabad",4
+7250,Mukesh Choudhary,Chennai Super Kings,5
+7260,Dhruv Jurel,Rajasthan Royals,5
+7269,Sushant Mishra,"Gujarat Titans, Rajasthan Royals, Sunrisers Hyderabad",3
+7270,Anrich Nortje,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",5
+7279,Atharva Ankolekar,Mumbai Indians,1
+7304,Sanvir Singh,Sunrisers Hyderabad,2
+7312,Nandre Burger,Rajasthan Royals,3
+7322,Yash Dayal,"Gujarat Titans, Royal Challengers Bengaluru",5
+7325,Harpreet Brar,Punjab Kings,5
+7327,Rasikh Salam,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",4
+7341,Jake McGurk,Delhi Capitals,2
+7446,Abdul Samad,"Lucknow Super Giants, Sunrisers Hyderabad",5
+7472,Shahbaz Ahmed,"Lucknow Super Giants, Royal Challengers Bengaluru, Sunrisers Hyderabad",5
+7473,Akash Deep,"Kolkata Knight Riders, Lucknow Super Giants, Royal Challengers Bengaluru",5
+7498,Abhijeet Tomar,Kolkata Knight Riders,1
+7503,Ravi Bishnoi,"Lucknow Super Giants, Rajasthan Royals",5
+7533,Simarjeet Singh,"Chennai Super Kings, Sunrisers Hyderabad",4
+7534,Sarthak Ranjan,Kolkata Knight Riders,1
+7544,Venkatesh Iyer,"Kolkata Knight Riders, Royal Challengers Bengaluru",5
+7545,Kuldeep Sen,"Punjab Kings, Rajasthan Royals",5
+7548,Shivalik Sharma,Mumbai Indians,1
+7553,Ajay Mandal,"Chennai Super Kings, Delhi Capitals",4
+7574,Kumar Kartikeya Singh,"Mumbai Indians, Rajasthan Royals",4
+7575,Arpit Guleria,Lucknow Super Giants,1
+7625,Suryansh Shedge,"Lucknow Super Giants, Punjab Kings",3
+7689,Dilshan Madushanka,"Mumbai Indians, Sunrisers Hyderabad",2
+7744,Jordan Cox,Royal Challengers Bengaluru,1
+7808,Marco Jansen,"Punjab Kings, Sunrisers Hyderabad",5
+7896,Akash Singh,"Chennai Super Kings, Lucknow Super Giants, Sunrisers Hyderabad",4
+7897,Namboori Tilak Varma,Mumbai Indians,5
+7920,Nathan Ellis,"Chennai Super Kings, Punjab Kings",5
+7967,Noor Ahmad,"Chennai Super Kings, Gujarat Titans",5
+8040,Ripal Patel,Delhi Capitals,2
+8085,Suyash Prabhudessai,Royal Challengers Bengaluru,3
+8101,Ashutosh Sharma,"Delhi Capitals, Punjab Kings",3
+8140,Abid Mangnoo,Rajasthan Royals,1
+8141,Auqib Nabi,Delhi Capitals,1
+8177,Akash Madhwal,"Chennai Super Kings, Mumbai Indians, Rajasthan Royals",5
+8182,Donovan Ferreira,"Delhi Capitals, Rajasthan Royals",4
+8221,Nitish Reddy,Sunrisers Hyderabad,4
+8238,Sameer Rizvi,"Chennai Super Kings, Delhi Capitals",3
+8251,Kumar Kushagra,"Delhi Capitals, Gujarat Titans",3
+8266,Sumit Kumar 1,Delhi Capitals,1
+8530,Kartik Tyagi,"Gujarat Titans, Kolkata Knight Riders, Sunrisers Hyderabad",4
+8580,Yudhvir Singh,"Lucknow Super Giants, Rajasthan Royals",4
+8614,William ORourke,Lucknow Super Giants,1
+8634,Ashwani Kumar,Mumbai Indians,2
+8647,Sediqullah Atal,Delhi Capitals,1
+8654,Cooper Connolly,Punjab Kings,1
+8661,Matheesha Pathirana,"Chennai Super Kings, Kolkata Knight Riders",5
+8746,Vaibhav Arora,"Kolkata Knight Riders, Punjab Kings",5
+8763,Duan Jansen,Mumbai Indians,1
+19098,Pyla Avinash,Punjab Kings,2
+19312,Nuwan Thushara,"Mumbai Indians, Royal Challengers Bengaluru",3
+19315,Vijayakanth Viyaskanth,Sunrisers Hyderabad,1
+19316,Maheesh Theekshana,"Chennai Super Kings, Rajasthan Royals",4
+19714,Abishek Porel,Delhi Capitals,4
+19781,Mitchell Owen,Punjab Kings,2
+19998,Rajvardhan Hangargekar,"Chennai Super Kings, Lucknow Super Giants",4
+20005,Arshad Khan,"Gujarat Titans, Lucknow Super Giants, Mumbai Indians",5
+20006,Ramandeep Singh,"Kolkata Knight Riders, Mumbai Indians",5
+20023,Karan Sharma,Lucknow Super Giants,2
+20029,Rahul Buddhi,Mumbai Indians,1
+20077,Yuvraj Chaudhary,Lucknow Super Giants,1
+20114,Ansh Patel,Punjab Kings,1
+20693,Kuldip Yadav,"Chennai Super Kings, Rajasthan Royals",3
+20694,Bhagath Varma,Chennai Super Kings,2
+20702,Tristan Stubbs,"Delhi Capitals, Mumbai Indians",5
+20802,Abdul Basith,Rajasthan Royals,1
+20894,Aman Khan,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders",3
+20989,Vivrant Sharma,Sunrisers Hyderabad,1
+22920,Jacob Duffy,Royal Challengers Bengaluru,1
+23311,Jacob Bethell,Royal Challengers Bengaluru,2
+23408,Amit Kumar,Sunrisers Hyderabad,1
+23450,Sai Sudharsan,Gujarat Titans,5
+23467,Gurjapneet Singh,Chennai Super Kings,2
+24475,Rehan Ahmed,Delhi Capitals,1
+25048,Umran Malik,"Kolkata Knight Riders, Sunrisers Hyderabad",5
+25132,Praful Hinge,Sunrisers Hyderabad,1
+25138,Harsh Dubey,Sunrisers Hyderabad,2
+25139,Shubham Dubey,Rajasthan Royals,3
+25213,Dewald Brevis,"Chennai Super Kings, Mumbai Indians",5
+25667,Anunay Singh,Rajasthan Royals,1
+25669,Priyansh Arya,Punjab Kings,2
+25679,Salil Arora,Sunrisers Hyderabad,1
+26197,Avinash Singh,Royal Challengers Bengaluru,1
+26663,Kwena Maphaka,"Mumbai Indians, Rajasthan Royals",3
+26830,Nishant Kumar Sindhu,"Chennai Super Kings, Gujarat Titans",4
+26832,Aneeshwar Gautam Narendra,Royal Challengers Bengaluru,1
+26834,Raj Bawa,"Mumbai Indians, Punjab Kings",4
+26836,Vicky Ostwal,"Delhi Capitals, Royal Challengers Bengaluru",4
+26906,Angkrish Raghuvanshi,Kolkata Knight Riders,3
+26909,Yash Dhull,Delhi Capitals,3
+26911,Harnoor Pannu,Punjab Kings,2
+26913,Shaik Rasheed,Chennai Super Kings,3
+27380,Harshit Kaushik,Kolkata Knight Riders,1
+27956,Prashant Solanki,"Chennai Super Kings, Kolkata Knight Riders",4
+27959,Hrithik Shokeen,Mumbai Indians,2
+27960,Mayank Yadav,Lucknow Super Giants,5
+27962,Saurav Chauhan,Royal Challengers Bengaluru,1
+27964,Anshul Kamboj,"Chennai Super Kings, Mumbai Indians",3
+27970,Gurnoor Brar,"Gujarat Titans, Punjab Kings",4
+28018,Ashok Sharma,"Gujarat Titans, Kolkata Knight Riders, Rajasthan Royals",3
+28019,Ramesh Kumar,Kolkata Knight Riders,1
+28020,Shubham Garhwal,Rajasthan Royals,1
+28021,Saurabh Dubey,"Kolkata Knight Riders, Sunrisers Hyderabad",2
+28970,Connor Esterhuizen,Gujarat Titans,1
+29066,Zakary Foulkes,Chennai Super Kings,1
+29888,Harshit Rana,Kolkata Knight Riders,5
+31205,Ruchit Ahir,Mumbai Indians,1
+31227,Vidhwath Kaverappa,Punjab Kings,2
+31518,Akshat Raghuwanshi,Lucknow Super Giants,1
+31529,Robin Minz,"Gujarat Titans, Mumbai Indians",3
+32244,Tripurana Vijay,Delhi Capitals,2
+32862,Allah Ghazanfar,"Kolkata Knight Riders, Mumbai Indians",3
+33067,Ravichandran Smaran,Sunrisers Hyderabad,2
+33095,Macneil Noronha,Chennai Super Kings,1
+34118,Irfan Taufiq,Rajasthan Royals,1
+34969,Manav Suthar,Gujarat Titans,3
+34991,Rajan Kumar,Royal Challengers Bengaluru,2
+35071,Kunal Rathore,Rajasthan Royals,3
+35072,Ramakrishna Ghosh,Chennai Super Kings,2
+35318,Sakib Hussain,"Kolkata Knight Riders, Sunrisers Hyderabad",2
+36328,Mangesh Yadav,Royal Challengers Bengaluru,1
+36981,Himanshu Sharma,Royal Challengers Bengaluru,2
+36982,Suyash Sharma,"Kolkata Knight Riders, Royal Challengers Bengaluru",4
+36983,Mohit Rathee,"Punjab Kings, Royal Challengers Bengaluru",2
+36984,Raghav Goyal,Mumbai Indians,1
+37052,Naman Dhir,Mumbai Indians,3
+37731,Musheer Khan,Punjab Kings,2
+39657,Eshan Malinga,Sunrisers Hyderabad,2
+39672,Aarya Desai,Kolkata Knight Riders,1
+41503,Yash Punja,Rajasthan Royals,1
+42845,Arshin Kulkarni,Lucknow Super Giants,3
+43774,Shivam Singh,Punjab Kings,2
+43798,Lhuan Pretorius,Rajasthan Royals,2
+43917,Krish Bhagat,Mumbai Indians,1
+43965,Emanjot Singh Chahal,Rajasthan Royals,1
+43967,Vishwanath Singh,Punjab Kings,1
+43996,Vihaan Malhotra,Royal Challengers Bengaluru,1
+44491,L Manvanth Kumar,Delhi Capitals,1
+45381,PV Satyanarayan Raju,Mumbai Indians,1
+45749,Mukul Choudhary,Lucknow Super Giants,1
+45965,Naman Tiwari,Lucknow Super Giants,1
+45966,Prashant Veer,Chennai Super Kings,1
+45989,Swastik Chikara,"Delhi Capitals, Royal Challengers Bengaluru",2
+46066,Vipraj Nigam,Delhi Capitals,2
+46137,Kartik Sharma,Chennai Super Kings,1
+46929,Dian Forrester,Chennai Super Kings,1
+47050,Shamar Joseph,Lucknow Super Giants,2
+47370,Aniket Verma,Sunrisers Hyderabad,2
+47523,Aman Rao Perala,Rajasthan Royals,1
+48504,Ayush Mhatre,Chennai Super Kings,2
+48551,Aravelly Avanish,Chennai Super Kings,1
+48555,Andre Siddharth,Chennai Super Kings,1
+48557,Vignesh Puthur,"Mumbai Indians, Rajasthan Royals",2
+48575,Sahil Parakh,Delhi Capitals,1
+48953,Danish Malewar,Mumbai Indians,1
+49027,Bevon Jacobs,Mumbai Indians,1
+49665,Prince Choudhary,Punjab Kings,1
+49670,Vansh Bedi,Chennai Super Kings,1
+50284,Vaibhav Sooryavanshi,Rajasthan Royals,2
+56800,Shivam Shukla,Kolkata Knight Riders,1
+56817,Shivang Kumar,Sunrisers Hyderabad,1
+56830,Madhav Tiwari,Delhi Capitals,2
+58134,Digvesh Rathi,Lucknow Super Giants,2
+58135,Tejasvi Dahiya,Kolkata Knight Riders,1
+58246,Prince Yadav,Lucknow Super Giants,2
+58727,Abhinandan Singh,Royal Challengers Bengaluru,2
+58864,Vishal Nishad,Punjab Kings,1
+60700,Ravi Singh,Rajasthan Royals,1
+62526,Krains Fuletra,Sunrisers Hyderabad,1
+63497,RS Ambrish,Sunrisers Hyderabad,1
+66513,Omkar Tarmale,Sunrisers Hyderabad,1
+66540,Kanishk Chouhan,Royal Challengers Bengaluru,1
+67036,Brijesh Sharma,Rajasthan Royals,1
+68280,Satvik Deswal,Royal Challengers Bengaluru,1
+71016,Daksh Kamra,Kolkata Knight Riders,1
+71311,Mohd Izhar,Mumbai Indians,1

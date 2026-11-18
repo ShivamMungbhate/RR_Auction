@@ -1,0 +1,203 @@
+player_id,player_name,ipl_teams,ipl_competitions,availability_status
+23,Piyush Chawla,Mumbai Indians,2,Provisional - verify auction status
+35,Nathan Bracken,Chennai Super Kings,1,Provisional - verify auction status
+88,Faf du Plessis,"Delhi Capitals, Royal Challengers Bengaluru",4,Provisional - verify auction status
+109,Wriddhiman Saha,Gujarat Titans,3,Provisional - verify auction status
+142,Shikhar Dhawan,Punjab Kings,3,Provisional - verify auction status
+143,Dinesh Karthik,Royal Challengers Bengaluru,3,Provisional - verify auction status
+147,Pradeep Sangwan,Gujarat Titans,2,Provisional - verify auction status
+158,Amit Mishra,Lucknow Super Giants,2,Provisional - verify auction status
+161,Dwayne Bravo,Chennai Super Kings,1,Provisional - verify auction status
+169,Robin Uthappa,Chennai Super Kings,1,Provisional - verify auction status
+220,David Warner,Delhi Capitals,3,Provisional - verify auction status
+250,Aaron Finch,Kolkata Knight Riders,1,Provisional - verify auction status
+278,Tim Southee,Kolkata Knight Riders,2,Provisional - verify auction status
+295,Wayne Parnell,Royal Challengers Bengaluru,1,Provisional - verify auction status
+305,Ravichandran Ashwin,"Chennai Super Kings, Rajasthan Royals",4,Provisional - verify auction status
+344,Sheldon Jackson,Kolkata Knight Riders,1,Provisional - verify auction status
+393,Kedar Jadhav,Royal Challengers Bengaluru,1,Provisional - verify auction status
+395,Karn Sharma,"Mumbai Indians, Royal Challengers Bengaluru",4,Provisional - verify auction status
+403,Umesh Yadav,"Gujarat Titans, Kolkata Knight Riders",3,Provisional - verify auction status
+479,Adil Rashid,Sunrisers Hyderabad,1,Provisional - verify auction status
+494,Kieron Pollard,Mumbai Indians,1,Provisional - verify auction status
+499,Shakib Al Hasan,Kolkata Knight Riders,1,Provisional - verify auction status
+535,Ambati Rayudu,Chennai Super Kings,2,Provisional - verify auction status
+772,Rilee Rossouw,"Delhi Capitals, Punjab Kings",2,Provisional - verify auction status
+786,Chris Jordan,"Chennai Super Kings, Mumbai Indians",2,Provisional - verify auction status
+796,Matthew Wade,Gujarat Titans,3,Provisional - verify auction status
+820,Nathan Coulter Nile,Rajasthan Royals,1,Provisional - verify auction status
+838,Glenn Maxwell,"Punjab Kings, Royal Challengers Bengaluru",4,Provisional - verify auction status
+914,Krishnappa Gowtham,Lucknow Super Giants,3,Provisional - verify auction status
+992,Mayank Agarwal,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",4,Provisional - verify auction status
+1028,Varun Aaron,Gujarat Titans,1,Provisional - verify auction status
+1039,Mandeep Singh,"Delhi Capitals, Kolkata Knight Riders",2,Provisional - verify auction status
+1040,Harpreet Bhatia,Punjab Kings,2,Provisional - verify auction status
+1045,David Wiese,Kolkata Knight Riders,1,Provisional - verify auction status
+1107,Mohammad Nabi,"Kolkata Knight Riders, Mumbai Indians",2,Provisional - verify auction status
+1171,Chris Woakes,Punjab Kings,1,Provisional - verify auction status
+1183,Alex Hales,Kolkata Knight Riders,1,Provisional - verify auction status
+1187,Jason Roy,"Gujarat Titans, Kolkata Knight Riders",3,Provisional - verify auction status
+1195,Ben Stokes,Chennai Super Kings,1,Provisional - verify auction status
+1205,Jonny Bairstow,"Mumbai Indians, Punjab Kings",4,Provisional - verify auction status
+1219,David Willey,"Lucknow Super Giants, Royal Challengers Bengaluru",3,Provisional - verify auction status
+1318,Andre Russell,Kolkata Knight Riders,4,Provisional - verify auction status
+1327,Johnson Charles,Kolkata Knight Riders,1,Provisional - verify auction status
+1389,Sean Abbott,Sunrisers Hyderabad,1,Provisional - verify auction status
+1568,Kane Williamson,"Gujarat Titans, Sunrisers Hyderabad",3,Provisional - verify auction status
+1596,Moeen Ali,"Chennai Super Kings, Kolkata Knight Riders",4,Provisional - verify auction status
+1600,Benny Howell,Punjab Kings,1,Provisional - verify auction status
+1617,Rishi Dhawan,Punjab Kings,3,Provisional - verify auction status
+1829,Shahbaz Nadeem,Lucknow Super Giants,1,Provisional - verify auction status
+1924,Sam Billings,Kolkata Knight Riders,1,Provisional - verify auction status
+1941,Devon Conway,Chennai Super Kings,4,Provisional - verify auction status
+2003,Bhanuka Rajapaksa,Punjab Kings,2,Provisional - verify auction status
+2054,Jason Behrendorff,"Mumbai Indians, Royal Challengers Bengaluru",3,Provisional - verify auction status
+2214,Gulbadin Naib,Delhi Capitals,1,Provisional - verify auction status
+2299,Gurkeerat Singh Mann,Gujarat Titans,1,Provisional - verify auction status
+2304,Tymal Mills,Mumbai Indians,1,Provisional - verify auction status
+2315,Reece Topley,"Mumbai Indians, Royal Challengers Bengaluru",3,Provisional - verify auction status
+2334,Dwaine Pretorius,Chennai Super Kings,2,Provisional - verify auction status
+2373,Ashton Turner,Lucknow Super Giants,1,Provisional - verify auction status
+2416,Kyle Mayers,Lucknow Super Giants,3,Provisional - verify auction status
+2483,Lizaad Williams,"Delhi Capitals, Mumbai Indians",2,Provisional - verify auction status
+2531,Joe Root,Rajasthan Royals,1,Provisional - verify auction status
+2573,Evin Lewis,Lucknow Super Giants,1,Provisional - verify auction status
+2636,Adam Zampa,"Rajasthan Royals, Sunrisers Hyderabad",3,Provisional - verify auction status
+2671,Liton Das,Kolkata Knight Riders,1,Provisional - verify auction status
+2781,Ravikumar Samarth,Sunrisers Hyderabad,1,Provisional - verify auction status
+2852,Jagadeesha Suchith,Sunrisers Hyderabad,1,Provisional - verify auction status
+2860,KS Bharat,"Delhi Capitals, Gujarat Titans, Kolkata Knight Riders",3,Provisional - verify auction status
+2862,Sachin Baby,Sunrisers Hyderabad,1,Provisional - verify auction status
+2863,Sandeep Warrier,"Gujarat Titans, Mumbai Indians",2,Provisional - verify auction status
+2869,Ankit Rajpoot,Lucknow Super Giants,1,Provisional - verify auction status
+2872,Siddarth Kaul,Royal Challengers Bengaluru,2,Provisional - verify auction status
+2877,Vijay Shankar,"Chennai Super Kings, Gujarat Titans",4,Provisional - verify auction status
+2878,Mohit Sharma,"Delhi Capitals, Gujarat Titans",3,Provisional - verify auction status
+2884,Manan Vohra,Lucknow Super Giants,2,Provisional - verify auction status
+2930,Rassie van der Dussen,Rajasthan Royals,1,Provisional - verify auction status
+2984,Sikandar Raza,Punjab Kings,2,Provisional - verify auction status
+2985,Mark Wood,Lucknow Super Giants,3,Provisional - verify auction status
+3144,Thomas Curran,Royal Challengers Bengaluru,1,Provisional - verify auction status
+3272,Fabian Allen,Mumbai Indians,1,Provisional - verify auction status
+3275,Alzarri Joseph,"Gujarat Titans, Royal Challengers Bengaluru",3,Provisional - verify auction status
+3299,Andrew Tye,Lucknow Super Giants,1,Provisional - verify auction status
+3323,Jimmy Neesham,Rajasthan Royals,1,Provisional - verify auction status
+3451,Baba Indrajith,Kolkata Knight Riders,1,Provisional - verify auction status
+3462,Writtick Chatterjee,Punjab Kings,1,Provisional - verify auction status
+3479,Chama Milind,Royal Challengers Bengaluru,1,Provisional - verify auction status
+3648,Deepak Hooda,"Chennai Super Kings, Lucknow Super Giants",4,Provisional - verify auction status
+3651,Ricky Bhui,Delhi Capitals,1,Provisional - verify auction status
+3672,Kusal Mendis,Gujarat Titans,1,Provisional - verify auction status
+3967,Tom Kohler,Rajasthan Royals,1,Provisional - verify auction status
+4077,KL Shrijith,Mumbai Indians,1,Provisional - verify auction status
+4080,KC Cariappa,Rajasthan Royals,2,Provisional - verify auction status
+4106,Daryl Mitchell,"Chennai Super Kings, Rajasthan Royals",2,Provisional - verify auction status
+4235,Sisanda Magala,Chennai Super Kings,1,Provisional - verify auction status
+4250,Baltej Singh,Punjab Kings,2,Provisional - verify auction status
+4276,Basil Thampi,Mumbai Indians,1,Provisional - verify auction status
+4325,Ashwin Hebbar,Delhi Capitals,1,Provisional - verify auction status
+4369,Shai Hope,Delhi Capitals,1,Provisional - verify auction status
+4486,BR Sharath,Gujarat Titans,1,Provisional - verify auction status
+4494,Abhinav Manohar,"Gujarat Titans, Sunrisers Hyderabad",4,Provisional - verify auction status
+4505,Jhye Richardson,"Delhi Capitals, Mumbai Indians",2,Provisional - verify auction status
+4716,Mayank Dagar,"Royal Challengers Bengaluru, Sunrisers Hyderabad",2,Provisional - verify auction status
+4779,Pieter Willem Mulder,Sunrisers Hyderabad,1,Provisional - verify auction status
+4807,Joshua Little,Gujarat Titans,2,Provisional - verify auction status
+4817,Anmolpreet Singh,"Mumbai Indians, Sunrisers Hyderabad",3,Provisional - verify auction status
+4837,Obed McCoy,Rajasthan Royals,2,Provisional - verify auction status
+4840,Odean Smith,"Gujarat Titans, Punjab Kings",2,Provisional - verify auction status
+4895,Charith Asalanka,Mumbai Indians,1,Provisional - verify auction status
+5029,Prerak Mankad,"Lucknow Super Giants, Punjab Kings",3,Provisional - verify auction status
+5034,Murugan Ashwin,"Mumbai Indians, Rajasthan Royals",2,Provisional - verify auction status
+5071,Akash Vasisht,Rajasthan Royals,1,Provisional - verify auction status
+5608,Narayan Jagadeesan,"Chennai Super Kings, Kolkata Knight Riders",2,Provisional - verify auction status
+5665,Sanjay Yadav,Mumbai Indians,1,Provisional - verify auction status
+5668,Hari Nishaanth,Chennai Super Kings,1,Provisional - verify auction status
+5680,R Sonu Yadav,Royal Challengers Bengaluru,1,Provisional - verify auction status
+5808,Karim Janat,Gujarat Titans,1,Provisional - verify auction status
+5809,Naveen ul Haq,Lucknow Super Giants,2,Provisional - verify auction status
+5940,Riley Meredith,Mumbai Indians,2,Provisional - verify auction status
+6036,Tejas Baroka,Rajasthan Royals,1,Provisional - verify auction status
+6038,Pratham Sing,Kolkata Knight Riders,1,Provisional - verify auction status
+6048,Ishan Porel,Punjab Kings,1,Provisional - verify auction status
+6160,Chamika Karunaratne,Kolkata Knight Riders,1,Provisional - verify auction status
+6280,Harry Brook,"Delhi Capitals, Sunrisers Hyderabad",3,Provisional - verify auction status
+6285,Kamlesh Nagarkoti,"Chennai Super Kings, Delhi Capitals",3,Provisional - verify auction status
+6398,Aaron Hardie,Punjab Kings,1,Provisional - verify auction status
+6408,Subhranshu Senapati,Chennai Super Kings,2,Provisional - verify auction status
+6428,Upendra Yadav,Sunrisers Hyderabad,2,Provisional - verify auction status
+6450,Mujeeb Ur Rahman,"Kolkata Knight Riders, Mumbai Indians",2,Provisional - verify auction status
+6466,Atharwa Taide,"Punjab Kings, Sunrisers Hyderabad",4,Provisional - verify auction status
+6486,Tanush Kotian,Rajasthan Royals,1,Provisional - verify auction status
+6487,Priyam Garg,"Delhi Capitals, Sunrisers Hyderabad",2,Provisional - verify auction status
+6488,Harvik Desai,Mumbai Indians,1,Provisional - verify auction status
+6489,Darshan Nalkande,"Delhi Capitals, Gujarat Titans",4,Provisional - verify auction status
+6492,Aryan Juyal,"Lucknow Super Giants, Mumbai Indians",2,Provisional - verify auction status
+6494,Manoj Bhandage,Royal Challengers Bengaluru,3,Provisional - verify auction status
+6512,Michael Bracewell,Royal Challengers Bengaluru,1,Provisional - verify auction status
+6518,Daniel Sams,"Lucknow Super Giants, Mumbai Indians",2,Provisional - verify auction status
+6591,KM Asif,"Chennai Super Kings, Rajasthan Royals",2,Provisional - verify auction status
+6654,Tanay Thyagarajan,Punjab Kings,1,Provisional - verify auction status
+6671,Lalit Yadav,Delhi Capitals,3,Provisional - verify auction status
+6674,Rahmanullah Gurbaz,"Gujarat Titans, Kolkata Knight Riders",4,Provisional - verify auction status
+6697,Shams Mulani,Mumbai Indians,2,Provisional - verify auction status
+6772,Chetan Sakariya,"Delhi Capitals, Kolkata Knight Riders",4,Provisional - verify auction status
+6774,Samarth Vyas,Sunrisers Hyderabad,1,Provisional - verify auction status
+6797,Dominic Drakes,Gujarat Titans,1,Provisional - verify auction status
+7008,Gus Atkinson,Kolkata Knight Riders,1,Provisional - verify auction status
+7197,Jhatavedh Subramanyan,Sunrisers Hyderabad,1,Provisional - verify auction status
+7240,FazalHaq Farooqi,"Rajasthan Royals, Sunrisers Hyderabad",4,Provisional - verify auction status
+7304,Sanvir Singh,Sunrisers Hyderabad,2,Provisional - verify auction status
+7341,Jake McGurk,Delhi Capitals,2,Provisional - verify auction status
+7498,Abhijeet Tomar,Kolkata Knight Riders,1,Provisional - verify auction status
+7533,Simarjeet Singh,"Chennai Super Kings, Sunrisers Hyderabad",4,Provisional - verify auction status
+7548,Shivalik Sharma,Mumbai Indians,1,Provisional - verify auction status
+7574,Kumar Kartikeya Singh,"Mumbai Indians, Rajasthan Royals",4,Provisional - verify auction status
+7575,Arpit Guleria,Lucknow Super Giants,1,Provisional - verify auction status
+8040,Ripal Patel,Delhi Capitals,2,Provisional - verify auction status
+8085,Suyash Prabhudessai,Royal Challengers Bengaluru,3,Provisional - verify auction status
+8140,Abid Mangnoo,Rajasthan Royals,1,Provisional - verify auction status
+8266,Sumit Kumar 1,Delhi Capitals,1,Provisional - verify auction status
+8614,William ORourke,Lucknow Super Giants,1,Provisional - verify auction status
+8647,Sediqullah Atal,Delhi Capitals,1,Provisional - verify auction status
+8763,Duan Jansen,Mumbai Indians,1,Provisional - verify auction status
+19315,Vijayakanth Viyaskanth,Sunrisers Hyderabad,1,Provisional - verify auction status
+19316,Maheesh Theekshana,"Chennai Super Kings, Rajasthan Royals",4,Provisional - verify auction status
+19998,Rajvardhan Hangargekar,"Chennai Super Kings, Lucknow Super Giants",4,Provisional - verify auction status
+20023,Karan Sharma,Lucknow Super Giants,2,Provisional - verify auction status
+20029,Rahul Buddhi,Mumbai Indians,1,Provisional - verify auction status
+20077,Yuvraj Chaudhary,Lucknow Super Giants,1,Provisional - verify auction status
+20114,Ansh Patel,Punjab Kings,1,Provisional - verify auction status
+20694,Bhagath Varma,Chennai Super Kings,2,Provisional - verify auction status
+20802,Abdul Basith,Rajasthan Royals,1,Provisional - verify auction status
+20989,Vivrant Sharma,Sunrisers Hyderabad,1,Provisional - verify auction status
+25667,Anunay Singh,Rajasthan Royals,1,Provisional - verify auction status
+26197,Avinash Singh,Royal Challengers Bengaluru,1,Provisional - verify auction status
+26832,Aneeshwar Gautam Narendra,Royal Challengers Bengaluru,1,Provisional - verify auction status
+26909,Yash Dhull,Delhi Capitals,3,Provisional - verify auction status
+26913,Shaik Rasheed,Chennai Super Kings,3,Provisional - verify auction status
+27380,Harshit Kaushik,Kolkata Knight Riders,1,Provisional - verify auction status
+27959,Hrithik Shokeen,Mumbai Indians,2,Provisional - verify auction status
+27962,Saurav Chauhan,Royal Challengers Bengaluru,1,Provisional - verify auction status
+28019,Ramesh Kumar,Kolkata Knight Riders,1,Provisional - verify auction status
+28020,Shubham Garhwal,Rajasthan Royals,1,Provisional - verify auction status
+31227,Vidhwath Kaverappa,Punjab Kings,2,Provisional - verify auction status
+34118,Irfan Taufiq,Rajasthan Royals,1,Provisional - verify auction status
+34991,Rajan Kumar,Royal Challengers Bengaluru,2,Provisional - verify auction status
+35071,Kunal Rathore,Rajasthan Royals,3,Provisional - verify auction status
+36981,Himanshu Sharma,Royal Challengers Bengaluru,2,Provisional - verify auction status
+36983,Mohit Rathee,"Punjab Kings, Royal Challengers Bengaluru",2,Provisional - verify auction status
+36984,Raghav Goyal,Mumbai Indians,1,Provisional - verify auction status
+39672,Aarya Desai,Kolkata Knight Riders,1,Provisional - verify auction status
+43774,Shivam Singh,Punjab Kings,2,Provisional - verify auction status
+43967,Vishwanath Singh,Punjab Kings,1,Provisional - verify auction status
+44491,L Manvanth Kumar,Delhi Capitals,1,Provisional - verify auction status
+45381,PV Satyanarayan Raju,Mumbai Indians,1,Provisional - verify auction status
+45989,Swastik Chikara,"Delhi Capitals, Royal Challengers Bengaluru",2,Provisional - verify auction status
+47050,Shamar Joseph,Lucknow Super Giants,2,Provisional - verify auction status
+48551,Aravelly Avanish,Chennai Super Kings,1,Provisional - verify auction status
+48555,Andre Siddharth,Chennai Super Kings,1,Provisional - verify auction status
+49027,Bevon Jacobs,Mumbai Indians,1,Provisional - verify auction status
+49665,Prince Choudhary,Punjab Kings,1,Provisional - verify auction status
+49670,Vansh Bedi,Chennai Super Kings,1,Provisional - verify auction status
+56800,Shivam Shukla,Kolkata Knight Riders,1,Provisional - verify auction status
