@@ -59,7 +59,7 @@ def _compat(fn):
 
     return wrapper
 
-for _n in ("plotly_chart", "image", "dataframe"):
+for _n in ("plotly_chart", "dataframe"):
     setattr(st, _n, _compat(getattr(st, _n)))
 
 CSS = Template("""
@@ -281,7 +281,7 @@ def show(fig): st.plotly_chart(fig, use_container_width=True, config={"displayMo
 def show_img(name, caption):
     p = RESULTS_DIR / name
     if p.exists():
-        st.image(str(p), caption=caption, use_container_width=True)
+        st.image(str(p), caption=caption)
     else:
         st.info(f"Chart `{name}` not found.")
 
