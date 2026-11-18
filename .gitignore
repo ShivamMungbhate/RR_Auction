@@ -1,1 +1,7 @@
-.streamlit
+.streamlit/
+results/
+results_a/
+results_b/
+results_eligible/
+results_final/
+results_pool/
