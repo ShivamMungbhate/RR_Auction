@@ -1,28 +1,24 @@
----
 # 🏏 SupeRR Selector — IPL Auction Intelligence
 
 **Pressure-tested player intelligence for smarter IPL auction decisions.**
 
-## 🚀 Live Demo
+🔴 **Live Dashboard:** [Launch SupeRR Selector](https://rr-auction-analysis-mjy92gl97pdgj5tyruvdjh.streamlit.app/)
 
-**Explore the deployed dashboard here:**
+SupeRR Selector is a data-driven cricket analytics project developed for **SupeRR Selector Season 2 — Rajasthan Royals × Unstop Hackathon**.
 
-👉 [Open SupeRR Selector Dashboard](https://rr-auction-analysis-mjy92gl97pdgj5tyruvdjh.streamlit.app/)
+The project evaluates T20 players through performance under pressure, role-based analysis, and contextual metrics to help identify reliable player profiles for auction strategy.
 
-SupeRR Selector is a data-driven cricket analytics project developed for **SupeRR Selector Season 2 — Rajasthan Royals × Unstop Hackathon**. It evaluates T20 players through performance under pressure, role-based analysis, and contextual metrics to help identify reliable player profiles for auction strategy.
-
-Rather than relying solely on overall statistics, the project focuses on how players perform in high-pressure match situations and how those insights can support squad-building decisions.
+Rather than relying solely on overall statistics, it focuses on how players perform in high-pressure match situations and how those insights can support squad-building decisions.
 
 ---
 
 ## 🚀 Live Demo
 
-**Explore the deployed dashboard here:**
+Explore the deployed interactive dashboard:
 
-👉 [https://rr-auction-analysis-mjy92gl97pdgj5tyruvdjh.streamlit.app/](https://rr-auction-analysis-mjy92gl97pdgj5tyruvdjh.streamlit.app/)
+**[Open SupeRR Selector Dashboard](https://rr-auction-analysis-mjy92gl97pdgj5tyruvdjh.streamlit.app/)**
 
 ---
-
 
 ## 🎯 Project Objective
 
@@ -41,7 +37,7 @@ The project aims to answer:
 
 - **Pressure-Based Player Evaluation** — Analyse player performance in challenging match contexts rather than relying only on aggregate statistics.
 - **Role-Aware Analysis** — Evaluate players according to their cricketing roles and responsibilities.
-- **Contextual Performance Metrics** — Account for the situation in which performances occur.
+- **Contextual Performance Metrics** — Account for the situations in which performances occur.
 - **Player Comparison** — Explore player profiles and compare their performance indicators.
 - **Auction Intelligence** — Translate analytical findings into potential squad-building and recruitment insights.
 - **Interactive Dashboard** — Explore results through an interactive Streamlit application.
@@ -57,21 +53,21 @@ The project follows a data-driven pipeline:
 3. **Performance Analysis** — Evaluate player contributions using contextual performance indicators.
 4. **Player Assessment** — Generate player-level analytical outputs.
 5. **Candidate Selection** — Build a player pool for further evaluation.
-6. **Dashboard Visualisation** — Present the final analytical outputs through an interactive interface.
+6. **Dashboard Visualisation** — Present final analytical outputs through an interactive interface.
 
 ---
 
 ## 📊 Dashboard
 
-The Streamlit dashboard provides a central interface to explore the final player analysis and auction-oriented insights.
+The Streamlit dashboard provides a central interface to explore player analysis and auction-oriented insights.
 
-### Dashboard capabilities
+### Dashboard Capabilities
 
-- Explore player ratings and analytical outputs
-- Compare player profiles
-- Examine role-based player information
-- Identify potential auction candidates
-- Navigate data-driven insights through interactive visualisations
+- Explore player ratings and analytical outputs.
+- Compare player profiles.
+- Examine role-based player information.
+- Identify potential auction candidates.
+- Navigate insights through interactive visualisations.
 
 ---
 
@@ -117,7 +113,7 @@ SupeRR-Selector/
 
 ---
 
-## 🚀 Run Locally
+## 💻 Run Locally
 
 ### 1. Clone the repository
 
@@ -132,55 +128,55 @@ cd YOUR-REPOSITORY
 python -m venv venv
 ```
 
-Activate it:
+### 3. Activate the virtual environment
 
 **Windows**
+
 ```bash
 venv\Scripts\activate
 ```
 
 **macOS / Linux**
+
 ```bash
 source venv/bin/activate
 ```
 
-### 3. Install dependencies
+### 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Launch the dashboard
+### 5. Run the dashboard
 
 ```bash
 streamlit run app.py
 ```
 
-The dashboard will open locally in your browser.
+The dashboard will open in your browser.
 
 ---
 
-## 📦 Data & Outputs
+## 📦 Data and Outputs
 
 The project uses structured cricket datasets and precomputed analytical outputs to power the dashboard.
 
-The `results_final2/` directory contains the final outputs consumed by the application.
+The `results_final2/` directory contains the final analytical outputs consumed by the application.
 
-The dashboard uses these outputs to display player-level analysis without requiring the entire analytical pipeline to be rerun on every launch.
+These outputs allow the dashboard to display player-level insights without rerunning the entire analytical pipeline on every launch.
 
 ---
 
-## 🏏 Use Case
+## 🏏 Use Cases
 
-The framework is designed to support:
+- Identifying players who deliver in pressure situations.
+- Evaluating potential recruitment options.
+- Comparing players with similar roles.
+- Supporting auction shortlist preparation.
+- Building a balanced squad using contextual performance insights.
 
-- Identifying players who deliver in pressure situations
-- Evaluating potential recruitment options
-- Comparing players with similar roles
-- Supporting auction shortlist preparation
-- Building a balanced squad using contextual performance insights
-
-The analysis is intended to support decision-making, not replace scouting, tactical judgement, or other recruitment considerations.
+The analysis is intended to support decision-making, not replace scouting, tactical judgement, or recruitment expertise.
 
 ---
 
