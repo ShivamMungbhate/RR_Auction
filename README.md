@@ -3,7 +3,11 @@
 
 **Pressure-tested player intelligence for smarter IPL auction decisions.**
 
-🔴 **Live Dashboard:** [Launch SupeRR Selector](https://rr-auction-analysis-mjy92gl97pdgj5tyruvdjh.streamlit.app/)
+## 🚀 Live Demo
+
+**Explore the deployed dashboard here:**
+
+👉 [Open SupeRR Selector Dashboard](https://rr-auction-analysis-mjy92gl97pdgj5tyruvdjh.streamlit.app/)
 
 SupeRR Selector is a data-driven cricket analytics project developed for **SupeRR Selector Season 2 — Rajasthan Royals × Unstop Hackathon**. It evaluates T20 players through performance under pressure, role-based analysis, and contextual metrics to help identify reliable player profiles for auction strategy.
 
